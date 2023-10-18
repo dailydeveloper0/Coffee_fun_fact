@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Coffee_fun_fact/static/css/main.8c7e061c.css",
+    "main.js": "/Coffee_fun_fact/static/js/main.11546052.js",
+    "static/media/background.jpg": "/Coffee_fun_fact/static/media/background.1eb8b7c1717191f8c5b0.jpg",
+    "static/media/about.jpg": "/Coffee_fun_fact/static/media/about.96e3bb9ab0dc729833ad.jpg",
+    "index.html": "/Coffee_fun_fact/index.html",
+    "main.8c7e061c.css.map": "/Coffee_fun_fact/static/css/main.8c7e061c.css.map",
+    "main.11546052.js.map": "/Coffee_fun_fact/static/js/main.11546052.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c7e061c.css",
+    "static/js/main.11546052.js"
+  ]
+}
